@@ -1,2 +1,2 @@
 # IPC2Repository
-Configurando un repositorio
+- CLASE 2 
